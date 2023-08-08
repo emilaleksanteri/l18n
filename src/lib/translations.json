@@ -1,0 +1,28 @@
+{
+  "GB": {
+    "Header": "Welcome to this website",
+    "Content": [
+      {
+        "Header": "How to use SvelteKit",
+        "Paragraph": "SvelteKit is built on Svelte, a UI framework that uses a compiler to let you write breathtakingly concise components that do minimal work in the browser, using languages you already know — HTML, CSS and JavaScript. It's a love letter to web development."
+      },
+      {
+        "Header": "Why to use SvelteKit",
+        "Paragraph": "SvelteKit is a great developer friendly full stack tool to for building modern apps"
+      }
+    ]
+  },
+  "FI": {
+    "Header": "Tervetuloa tälle nettisivulle",
+    "Content": [
+      {
+        "Header": "Miten käyttää SvelteKittiä",
+        "Paragraph": "SvelteKit perustuu Svelte-käyttöliittymäkehykseen, joka käyttää kääntäjää, jonka avulla voit kirjoittaa henkeäsalpaavan ytimekkäitä komponentteja, jotka toimivat vain vähän selaimessa, käyttämällä jo tuntemiasi kieliä – HTML, CSS ja JavaScript. Se on rakkauskirje verkkokehitykseen."
+      },
+      {
+        "Header": "Miksi valita SvelteKit",
+        "Paragraph": "SvelteKit on loistava kehittäjäystävällinen täyspinotyökalu nykyaikaisten sovellusten rakentamiseen"
+      }
+    ]
+  }
+}
