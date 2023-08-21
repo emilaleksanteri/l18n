@@ -1,6 +1,7 @@
 <script lang="ts">
   import type { PageData } from "./$types";
   export let data: PageData
+  $: console.log(data.location)
 </script>
 
 <h1 class="w-full text-center text-3xl font-bold text-pink-400">
